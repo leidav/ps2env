@@ -3,6 +3,7 @@ ps2toolchain/
 ee/
 iop/
 dvp/
+bin/
 test.tmp
 tags
 
